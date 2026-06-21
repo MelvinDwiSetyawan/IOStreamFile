@@ -1,0 +1,5 @@
+Kabel HDMI;35000.0;20
+Mie Instan;3500.0;100
+Kaos Polos;45000.0;30
+Charger HP;50000.0;15
+Kopi Sachet;2000.0;200
